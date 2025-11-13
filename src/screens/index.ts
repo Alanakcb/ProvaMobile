@@ -1,0 +1,8 @@
+export { PerfilScreen as ScreenPerfil } from "./Perfil"
+export { ListVinylRecordsScreen as ScreenListVinylRecords } from "./Vinyl/ListVinylRecords"
+export { VinylRecordDetailsScreen as ScreenVinylRecordDetails } from "./Vinyl/VinylRecordDetails"
+export { RegisterVinylRecordScreen as ScreenRegisterVinylRecord } from "./Vinyl/RegisterVinylRecord"
+export { EditVinylRecordScreen as ScreenEditVinylRecord } from "./Vinyl/EditVinylRecord"
+export { CameraScreen as ScreenPhoto } from "./Camera"
+export { ImagemScreen as  ScreenImagem} from "./Imagens"
+export {VideoScreen as ScreenVideo} from "./Video"
